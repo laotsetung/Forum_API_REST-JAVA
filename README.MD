@@ -44,3 +44,5 @@
 
 </ul>
 
+<img src="badge.png">
+
