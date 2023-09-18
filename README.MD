@@ -27,7 +27,8 @@
 <ul>
     <li> <h3> Criação do banco de dados MySQL</h3></li>
 
-    <code> create database forum; 
+    ```sql
+     create database forum; 
 
     use forum; 
 
@@ -38,7 +39,8 @@
         data_criacao varchar(10) not null,
         estado int not null,
         autor varchar(50) not null,
-        curso varchar(50) not null ); </code>
+        curso varchar(50) not null ); 
+    ```
 
 </ul>
 
